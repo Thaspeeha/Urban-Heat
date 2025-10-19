@@ -44,6 +44,24 @@ While the UAE has launched multiple **national sustainability and resilience ini
 
 ---
 
+## 📖 Features
+
+It uses **OpenStreetMap** and **NASA vegetation data** to provide two smart routing options:  
+- **Faster Route:** the shortest path by time or distance.  
+- **Cooler Path:** optimized to pass through **shaded and vegetated areas**, reducing **heat exposure** for pedestrians and cyclists.  
+
+The system also integrates **NASA NDVI (Normalized Difference Vegetation Index)**, **EVI (Enhanced Vegetation Index)**, and **LST (Land Surface Temperature)** datasets from **2010–2025** to **forecast absolute future Land Surface Temperatures** in **Downtown Dubai**.  
+
+Predicted temperatures are classified into four **Future Heat Zones**:
+- **Low** — coolest 25%  
+- **Medium** — 25–50%  
+- **Medium-High** — 50–75%  
+- **High** — hottest 25%  
+
+“**Absolute predicted future LST values**” simply mean the **actual temperature** the model predicts for a specific location at a future point in time, rather than the relative change from today — giving a clear and realistic picture of how hot each location may become.
+
+--
+
 ## 📈 Impact
 By integrating open data and machine learning, **UAE HeatLens** aims to:
 - Enhance **public awareness** of heat exposure risks.  
@@ -57,8 +75,7 @@ By integrating open data and machine learning, **UAE HeatLens** aims to:
 
 ---
 
-## 📄 License
-This project is licensed under the **MIT License** — free for academic, research, and open innovation purposes.
+This project is used for educational purposes.
 
 ---
 
