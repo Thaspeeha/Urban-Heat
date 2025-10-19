@@ -1,10 +1,44 @@
+
 import React from 'react';
-import Image from 'next/image';
+//"use client";
+import Image from "next/image";
+
 export default function Header() {
   return (
-    <div className="bg-blue-800 px-6 py-4 rounded-t-lg flex items-center">
-      <Image src="/heatlogo.png" alt="Desert HeatLens Logo" className="h-8 w-8 mr-4" />
-      <span className="text-white text-xl font-semibold">UAEHeatLens</span>
-    </div>
+    <header style={{
+      backgroundColor: '#4A7BA7',
+      padding: '20px 40px',
+      display: 'flex',
+      alignItems: 'center',
+      gap: '15px',
+      boxShadow: '0 2px 8px rgba(0,0,0,0.1)'
+    }}>
+      <div style={{
+        width: '60px',
+        height: '60px',
+        borderRadius: '50%',
+        backgroundColor: '#fff',
+        overflow: 'hidden',
+        position: 'relative',
+      }}>
+        <Image
+          src="/heatlogo.png"
+          alt="Desert HeatLens logo"
+          fill
+          style={{ objectFit: 'cover' }}
+          sizes="60px"
+        />
+      </div>
+      <div>
+        <h1 style={{
+          margin: 0,
+          color: '#fff',
+          fontSize: '28px',
+          fontWeight: '600'
+        }}>
+          Desert HeatLens
+        </h1>
+      </div>
+    </header>
   );
 }
