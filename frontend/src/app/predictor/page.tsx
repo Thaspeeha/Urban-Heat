@@ -14,6 +14,7 @@ export default function HeatVision2030() {
     >
       {/* Navbar */}
       <Header />
+      
 
       {/* Main content section */}
       <section
@@ -34,7 +35,7 @@ export default function HeatVision2030() {
 
       <section className="flex flex-col items-center text-center px-6 py-10 max-w-3xl mx-auto">
         <h2 className="text-lg font-semibold mb-2 text-gray-800">
-          Seeing Tomorrow’s Heat, Today.
+          Seeing Tomorrows Heat, Today.
         </h2>
         <p className="text-gray-700 mb-6 text-sm leading-relaxed">
           Using satellite temperature and land cover data from 2010–2025,
@@ -83,13 +84,13 @@ export default function HeatVision2030() {
           </div>
         </div>
 
-        {/* Map Placeholder */}
-        <div
-          className="w-full h-80 rounded-xl shadow-inner flex items-center justify-center text-gray-500"
-          style={{ backgroundColor: "#CFCFCF" }}
-        >
-          🔍 AI Heat Map Visualization Here
-        </div>
+        {/* Map Visualization - ONLY CHANGE HERE */}
+        <iframe
+          src={`http://localhost:8000/heat-map/${year}`}
+          className="w-full h-80 rounded-xl shadow-inner"
+          style={{ border: 'none' }}
+          title="AI Heat Map Visualization"
+        />
 
         {/* Actions */}
         <div className="mt-12 text-left w-full">
@@ -110,7 +111,7 @@ export default function HeatVision2030() {
             </div>
 
             <div className="flex items-start gap-3">
-              <span className="text-yellow-600 text-xl">🏙️</span>
+              <span className="text-yellow-600 text-xl">🏙</span>
               <div>
                 <p className="font-semibold text-gray-900">
                   Reflective Surfaces
@@ -123,7 +124,7 @@ export default function HeatVision2030() {
             </div>
 
             <div className="flex items-start gap-3">
-              <span className="text-blue-600 text-xl">🧍‍♀️</span>
+              <span className="text-blue-600 text-xl">🧍‍♀</span>
               <div>
                 <p className="font-semibold text-gray-900">
                   Community Protection
