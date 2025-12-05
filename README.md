@@ -67,6 +67,9 @@ By integrating open data and machine learning, **UAE HeatLens** aims to:
 [![Open in Figma](https://img.shields.io/badge/Open%20in-Figma-blue?logo=figma)](https://www.figma.com/design/esmDyJnfGJG2018hC6sr3O/Innovation-Hackathon?node-id=0-1&t=k3E1M5muXM7BJeJi-1)
 
 
+**Presentation**
+[![PPT](https://img.shields.io/badge/Presentation-PPTX-blue)](https://www.canva.com/design/DAG2O867Va0/Qj62gi7Z_-Ofmq60zXLhxA/view?utm_content=DAG2O867Va0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3f1e225218)  
+
 This project is used for educational purposes.
 
 
