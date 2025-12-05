@@ -1,4 +1,6 @@
-# 🌆 UAE HeatLens
+# 🖥️ Innovation Hackathon 2025 🛠️
+
+## 🌆 UAE HeatLens
 
 **Theme:** Urban Heat Island Mitigation using Open Data  
 **Focus Area:** Downtown Dubai, United Arab Emirates  
