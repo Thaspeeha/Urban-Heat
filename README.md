@@ -4,7 +4,7 @@
 
 **Theme:** Urban Heat Island Mitigation using Open Data  
 **Focus Area:** Downtown Dubai, United Arab Emirates  
-**Track** : Innovate in Emirates
+**Track** : Innovate in Emirates -Transformative concepts born in the UAE, harnessing frontier tech to inspire global change.
 
 
 ## 📖 Project Overview
