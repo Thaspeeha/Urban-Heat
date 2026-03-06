@@ -73,6 +73,10 @@ By integrating open data and machine learning, **UAE HeatLens** aims to:
 ## 🖥️ Presentation
 [![PPT](https://img.shields.io/badge/Presentation-PPTX-blue)](https://www.canva.com/design/DAG2O867Va0/Qj62gi7Z_-Ofmq60zXLhxA/view?utm_content=DAG2O867Va0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3f1e225218)  
 
+## 👥 Contributors
+[![Sanjitha Mohammad](https://img.shields.io/badge/Sanjitha-Mohammad-red)](https://www.linkedin.com/in/sanjitha-mohammad-831556286/) 
+[![Insia Syed](https://img.shields.io/badge/Insia-Syed-purple)](https://www.linkedin.com/in/insia-syed-3645a32b2/)
+
 This project is used for educational purposes.
 
 
