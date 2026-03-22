@@ -77,6 +77,10 @@ By integrating open data and machine learning, **UAE HeatLens** aims to:
 [![Sanjitha Mohammad](https://img.shields.io/badge/Sanjitha-Mohammad-red)](https://www.linkedin.com/in/sanjitha-mohammad-831556286/) 
 [![Insia Syed](https://img.shields.io/badge/Insia-Syed-purple)](https://www.linkedin.com/in/insia-syed-3645a32b2/)
 
+## 🚀 My Certificate
+
+[![Certificate](https://img.shields.io/badge/UrbanHeatLens-Certificate-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaspeeha-vahithu-a139b627a/details/certifications/223087995/multiple-media-viewer/?profileId=ACoAAEQitS8B9Zd9iJzEX1DtzEumSWLNC8Z3hxw&treasuryMediaId=1761159679738)
+
 This project is used for educational purposes.
 
 
