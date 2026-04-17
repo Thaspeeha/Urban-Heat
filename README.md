@@ -54,7 +54,7 @@ While the UAE has launched multiple **national sustainability and resilience ini
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
 <img src="https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white" />
 <img src="https://img.shields.io/badge/Folium-77B829?logo=mapbox&logoColor=white" />
-<img src="https://raw.githubusercontent.com/networkx/networkx/main/doc/source/_static/networkx_logo.svg" width="60"/>
+<img src="https://img.shields.io/badge/NetworkX-Graph%20Analysis-1f77b4?logo=python&logoColor=white" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="40"/>
 
 </p>
