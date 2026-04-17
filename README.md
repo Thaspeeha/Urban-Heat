@@ -38,7 +38,7 @@ While the UAE has launched multiple **national sustainability and resilience ini
 
 ## 🧠 Tech Stack
 - **Backend:** FastAPI (Python)  
-- **Frontend:** Next.js + React + Leaflet/Folium  
+- **Frontend:** Next.js + React + Leaflet/Folium + Typescript
 - **Data Sources:** NASA MODIS, UAE Meteorological Data  
 - **Deployment:** Not Deployed
 
