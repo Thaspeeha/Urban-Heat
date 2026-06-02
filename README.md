@@ -50,7 +50,6 @@ While the UAE has launched multiple **national sustainability and resilience ini
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
 <img src="https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white" />
 <img src="https://img.shields.io/badge/Folium-77B829?logo=mapbox&logoColor=white" />
